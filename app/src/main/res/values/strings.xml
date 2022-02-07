@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BottemNavigation3</string>
+    <string name="textfield_label">Label</string>
+
+    <string name="Home">Home</string>
+    <string name="Explore">Explore</string>
+    <string name="Add">Add</string>
+    <string name="Social">Social</string>
+    <string name="Profile">Profile</string>
+
+    <string name="Settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
